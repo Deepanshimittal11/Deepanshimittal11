@@ -1,4 +1,5 @@
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h1 style="color:black;">👋 <b>Hello, I’m Deepanshi</b></h1>
 <br>Aspiring Full‑Stack Developer | 📚 Lifelong Learner | ⚡ Building Tomorrow’s Web<br>Passionate about creating beautiful and efficient web experiences, I’m currently mastering the modern full-stack ecosystem: MERN (MongoDB, Express.js, React, Node.js) + Tailwind CSS. Strong foundation in JavaScript, TypeScript, and Core Java concepts, while diving deeper into Data Structures & Algorithms to write clean, robust code.<br>🤝 Let’s Connect with me on LinkedIn💼(https://www.linkedin.com/in/deepanshi-mittal-991b4a299)<br/>
 
@@ -19,9 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Deepanshimittal11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshimittal11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Deepanshimittal11&theme=dark&hide_border=false)<br/>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Deepanshimittal11&limit=5&theme=dark&combine_all_yearly_contributions=true)
