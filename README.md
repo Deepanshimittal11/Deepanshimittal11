@@ -1,9 +1,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=custom&background=ffffff&border=ffffff&title_color=000000&quote_color=000000)
 
-<h1 style="color:black;">👋 <b>Hello, I’m Deepanshi</b></h1>
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Deepanshimittal11&style=for-the-badge" alt="Visitor count" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="left"><h1 style="color:black;">👋 <b>Hello, I’m Deepanshi</b></h1></td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=Deepanshimittal11&style=for-the-badge" alt="Visitor count" />
+    </td>
+  </tr>
+</table>
 
 <br>Aspiring Full‑Stack Developer | 📚 Lifelong Learner | ⚡ Building Tomorrow’s Web<br>Passionate about creating beautiful and efficient web experiences, I’m currently mastering the modern full-stack ecosystem: MERN (MongoDB, Express.js, React, Node.js) + Tailwind CSS. Strong foundation in JavaScript, TypeScript, and Core Java concepts, while diving deeper into Data Structures & Algorithms to write clean, robust code.<br>🤝 Let’s Connect with me on LinkedIn💼(https://www.linkedin.com/in/deepanshi-mittal-991b4a299)<br/>
 
