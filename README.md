@@ -1,5 +1,8 @@
-<h1 style="color:black;">👋 <b>Hello, I’m Deepanshi</b></h1>
-<br>Full-stack developer learning the MERN stack (MongoDB, Express.js, React, Node.js) with Tailwind CSS. Working with JavaScript, TypeScript, and Core Java. Improving problem-solving with Data Structures and Algorithms through coding contests on CodeChef.<br>🤝 Let’s Connect with me on LinkedIn💼(https://www.linkedin.com/in/deepanshi-mittal-991b4a299)<br/>
+<h1 style="color:black;">👋 <b>Hello, I’m Deepanshi</b></h1> , a Computer Science undergraduate at Chitkara University, passionate about Full Stack Development and Competitive Programming.<br />
+🌱 Currently learning and building with the MERN Stack (MongoDB, Express.js, React, Node.js) along with Tailwind CSS.<br />
+💻 Solved 250+ problems on LeetCode and actively participate in CodeChef and Codeforces contests.<br />
+🚀 Worked on projects like ShopZa (E-commerce Platform), BiteBox (Food Delivery App), and an AI-powered Chatbot.<br />
+🔗 Active on GitHub & LinkedIn💼(https://www.linkedin.com/in/deepanshi-mittal-991b4a299), always eager to learn, collaborate, and build scalable solutions that solve real-world problems.
 
 # 💻 Tech Stack:
 ### Languages & Backend
