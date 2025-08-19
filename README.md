@@ -4,13 +4,13 @@
 🚀 Worked on projects like ShopZa (E-commerce Platform), BiteBox (Food Delivery App), and an AI-powered Chatbot.<br />
 🔗 Active on GitHub & LinkedIn💼(https://www.linkedin.com/in/deepanshi-mittal-991b4a299), always eager to learn, collaborate, and build scalable solutions that solve real-world problems.
 
-# 💻 Tech Stack
+# 💻 Tech Stack  
 ### 🚀 Languages & Backend  
 <p align="left">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50"/>  
-</p> 
+</p>  
 
 ### 🎨 Frontend  
 <p align="left">  
@@ -19,7 +19,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>  
 </p>  
 
-### 🛠 Tools & Design
+### 🛠 Tools & Design  
 <p align="left">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="50" height="50"/>  
