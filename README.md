@@ -11,7 +11,9 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="50" height="50"/> |
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Deepanshimittal11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshimittal11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Deepanshimittal11&theme=dark&hide_border=false)<br/>
+# 📊 GitHub Stats  
+
+| ![](https://github-readme-stats.vercel.app/api?username=Deepanshimittal11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshimittal11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](https://streak-stats.demolab.com?user=Deepanshimittal11&theme=tokyonight&hide_border=false) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepanshimittal11&theme=tokyonight) |
+
