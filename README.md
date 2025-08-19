@@ -1,4 +1,4 @@
-<h1 style="color:black;">👋 <b>Hello, I’m Deepanshi</b></h1> , a Computer Science undergraduate at Chitkara University, passionate about Full Stack Development and Competitive Programming.<br />
+<h1 style="color:black;">👋 <b>Hello, I’m Deepanshi</b></h1> Computer Science undergraduate at Chitkara University, passionate about Full Stack Development and Competitive Programming.<br />
 🌱 Currently learning and building with the MERN Stack (MongoDB, Express.js, React, Node.js) along with Tailwind CSS.<br />
 💻 Solved 250+ problems on LeetCode and actively participate in CodeChef and Codeforces contests.<br />
 🚀 Worked on projects like ShopZa (E-commerce Platform), BiteBox (Food Delivery App), and an AI-powered Chatbot.<br />
