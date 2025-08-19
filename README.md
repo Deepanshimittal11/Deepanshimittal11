@@ -3,7 +3,7 @@
 💻 Solved 300+ problems on LeetCode and actively participate in CodeChef and Codeforces contests.(https://codolio.com/profile/Deepanshi_1121)<br />
 🚀 Worked on projects like ShopZa (E-commerce Platform), BiteBox (Food Delivery App), and an AI-powered Chatbot.<br />
 🔗 Active on GitHub & LinkedIn💼(https://www.linkedin.com/in/deepanshi-mittal-991b4a299), always eager to learn, collaborate, and build scalable solutions that solve real-world problems.
-
+<br />
 
 # 💻 Tech Stack  
 | 🚀 Languages & Backend | 🎨 Frontend | 🛠 Tools & Design |
